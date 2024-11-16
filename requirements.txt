@@ -1,6 +1,5 @@
-pip install urlextract
-pip install wordcloud
-pip install pandas
-pip install streamlit
-pip install matplotlib
-
+urlextract
+wordcloud
+pandas
+streamlit
+matplotlib
